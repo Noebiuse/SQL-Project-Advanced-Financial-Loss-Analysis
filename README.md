@@ -8,10 +8,12 @@ This project demonstrates how I used SQL to analyze financial losses caused by d
 * Data cleaning with COALESCE
 * Basic KPI calculation
 
+---
+
 ## Project Overview
 
 ### 1. Data Cleaning (CTE)
-I created a CTE to:
+I used a CTE to handle data preparation. **I chose this method over creating a new permanent table to keep the entire project logic—from cleaning to analysis—contained within a single, easy-to-read script.** The CTE was used to:
 * replace missing financial loss values with 0,
 * keep the dataset consistent for analysis,
 * add a simple delay category.
