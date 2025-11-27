@@ -1,7 +1,6 @@
 # End-to-End Project: Supply Chain Loss Analysis (SQL & Power BI)
 
-## Dashboard Visualization
-![Power BI Dashboard: Supply Chain Loss Analysis](Supply Chain Loss Analysis Dashboard.png)
+![Power BI Dashboard: Supply Chain Loss Analysis](Supply_Chain_Loss_Analysis_Dashboard.png)
 
 This project demonstrates how I used **SQL** to perform in-depth financial analysis and **Power BI** to visualize operational insights regarding losses caused by delivery delays in a supply chain process. The dataset includes synthetic daily records with materials, order values, delay hours, and financial losses.
 
